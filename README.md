@@ -1,7 +1,7 @@
 # 🕒 PC Shutdown Timer 🚀
 
 ## Why? 🤔
-I love listening to white noise while I sleep 😴, but my PC wouldn't shut down—just sleep mode! Not cool. So, I fixed it with some Java magic 🧑‍💻.
+I love listening to white noise while I sleep 😴, but my PC wouldn't shut down—just sleep mode! Not cool. So, I fixed it with some Java magic 
 
 ## How It Works 🛠️
 1. Enter minutes ⏳
