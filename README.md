@@ -8,7 +8,7 @@ I love listening to white noise while I sleep 😴, but my PC wouldn't shut down
 2. Click "Start Timer" 
 3. Boom! PC shuts down 
 
-## How to Use 🤓
+## How to Use 
 1. Install Java (if you don’t have it).
 2. Run:
    ```bash
